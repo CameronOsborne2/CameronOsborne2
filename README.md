@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Cameronfosborne@gmail.com**
 
-- ⚡ Fun fact **I surf,fish,and love being outside when I can**
+- ⚡ Fun fact **When I am not at school I get to spend my summers at the beach lifeguarding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
