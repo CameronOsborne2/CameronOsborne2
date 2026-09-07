@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a junior at **James Madison University** studying Communications with a concentration in **Interpersonal Communication**. I'm interested in how people connect, communicate, and work together.
+I'm a junior at James Madison University studying Communications with a concentration in Interpersonal Communications. I'm interested in how people connect, communicate, and work together.
 
 I'm an outgoing, people-oriented person who enjoys working with others and getting involved in different experiences. I'm currently exploring how communication skills can connect with technology, digital media, and future career opportunities.
 
