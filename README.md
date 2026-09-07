@@ -10,7 +10,7 @@
 I'm a junior at James Madison University studying Communications with a concentration in Interpersonal Communications. I'm interested in how people connect, communicate, and work together.
 
 I'm an outgoing, people-oriented person who enjoys working with others and getting involved in different experiences. I'm currently exploring how communication skills can connect with technology, digital media, and future career opportunities.
-
+___
 ### 🌱 Currently Learning
 
 - Interpersonal Communication
@@ -18,7 +18,7 @@ I'm an outgoing, people-oriented person who enjoys working with others and getti
 - GitHub & Version Control
 - Basic Web Development
 - Professional & Workplace Communication
-
+___
 ### 💬 Ask Me About
 
 - 🏄 Surfing
@@ -26,7 +26,7 @@ I'm an outgoing, people-oriented person who enjoys working with others and getti
 - 🛟 Lifeguarding
 - 🎓 Life at JMU
 - 🗣️ Communication & Working With People
-
+___
 ### 🛠️ Skills & Tools
 
 - Communication
@@ -36,7 +36,7 @@ I'm an outgoing, people-oriented person who enjoys working with others and getti
 - Microsoft Office
 - GitHub
 - Basic HTML & Markdown
-
+___
 ### 🎯 Goals
 
 - Build my professional experience while finishing my degree
